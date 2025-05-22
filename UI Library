@@ -151,7 +151,7 @@ local themes = {
     ScrollBar = Color3.fromRGB(130, 130, 160),      -- faded violet-gray for soft accents
     NotiBackground = Color3.fromRGB(10, 10, 15),    -- very dark, starless void
     Glow = Color3.fromRGB(15, 15, 25),           -- soft, gentle glow like starlight
-    Logo = "rbxassetid://89129361199058"           -- keep or update this with Nyxora's actual logo if needed
+    Logo = ""           -- keep or update this with Nyxora's actual logo if needed
 }
 
     table.insert(CFAHub, title)
