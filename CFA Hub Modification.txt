@@ -171,7 +171,7 @@ local themes = {
         Logo.BackgroundTransparency = 1.000
         Logo.ImageTransparency = 1
         Logo.Position = UDim2.new(0.5, 0, 0.6, 0)
-        Logo.Size = UDim2.new(0, 140, 0, 140)
+        Logo.Size = UDim2.new(0, 100, 0, 100)
         Logo.Image = themes.Logo
 
         Tween:Create(Logo, Tweeninfo(0.5, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut), {
